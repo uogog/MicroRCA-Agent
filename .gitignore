@@ -79,3 +79,5 @@ preprocessing_log.txt
 
 result_copy.jsonl
 submission/result.jsonl.backup
+
+src/.env
